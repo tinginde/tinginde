@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tinginde
 - 👀 I’m interested in NLP tasks, such as QA system, sentimental analysis, NLI etc.
-- 🌱 I’m currently learning deep learning and researching on pre-trained language model.
+- 🌱 I’m currently learning deep learning and researching on pre-trained language models, information extraction.
 - 📫 How to reach me : Github, email: quziting@gmail.com
 
 <!---
